@@ -23,11 +23,8 @@ about Rust here (include Chinese version).
 
   [Rust 秘典](https://nomicon.purewhite.io/intro.html)
 
-- [Rust语言圣经 (The Course)](https://course.rs/)
-  
-  > 此圣经非官方那本 [`圣经` The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
-
 - [Rust Frequently Asked Questions](https://github.com/dtolnay/rust-faq)
+  
   [Rust 常见的问题](https://www.purewhite.io/2021/09/01/rust-faq/)
 
 ## Crate Registry
